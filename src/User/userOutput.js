@@ -4,7 +4,7 @@ import './output.css';
 
 const userOutput = (props) => {
     var i = [];
-    let cnt=5;
+    let cnt=50;
     for (let j = 0; j < cnt; j++) {
         let k = (<div className="UserOutput">
                     <p onChange={props.currentName}>UserName: {props.userName}</p>
