@@ -2,14 +2,14 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 30%;
+    width: 60%;
     margin: auto;
 }
 
 .Course {
     color: red;
     text-decoration: none;
-    border: 2   px solid #eee;
+    border: 2px solid #eee;
     box-shadow: 2px 2px 3px black;
     padding: 8px;
     margin: 8px;

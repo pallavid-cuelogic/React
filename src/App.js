@@ -8,7 +8,7 @@ import ErrorPage from './components/ErrorPage';
 class App extends Component {
   style = {
     margin: 'auto',
-    padding: '0',
+    padding: '10px',
   };
 
   style1 = {
@@ -16,7 +16,7 @@ class App extends Component {
   };
 
   style2 = {
-    margin: '10px',
+    margin: '50px',
     display: 'inline-block',
   };
 
